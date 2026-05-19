@@ -338,90 +338,23 @@ Drivers principales:
 
 ---
 
-## Reglas de intervención responsable
+## Dashboard Preview
 
-SafePlay AI no termina en una predicción. Convierte el score en una recomendación proporcional.
+### Executive Overview
 
-### Riesgo bajo
+![Executive Overview](assets/dashboard_overview.png)
 
-* Sin intervención individual.
-* Comunicación general sobre juego responsable.
-* Sugerencia opcional de límites.
+### Alert Monitor
 
-### Riesgo medio
+![Alert Monitor](assets/alert_monitor.png)
 
-* Mensaje preventivo.
-* Sugerir límites voluntarios de depósito o tiempo.
-* Reducir presión promocional.
-* Monitorizar evolución.
+### User Profile
 
-### Riesgo alto
+![User Profile](assets/user_profile.png)
 
-* Excluir de campañas comerciales.
-* Activar revisión humana.
-* Mostrar mensaje de pausa.
-* Sugerir herramientas de autoexclusión o enfriamiento.
-* Registrar alerta para auditoría.
+### Model Governance
 
-Principio central:
-
-> El sistema debe usarse para proteger al usuario, no para maximizar su gasto.
-
----
-
-## Dashboard Streamlit
-
-El dashboard simula una herramienta interna de responsible gaming.
-
-### 1. Executive Overview
-
-Muestra:
-
-* usuarios analizados;
-* distribución de riesgo;
-* alertas operativas;
-* acciones recomendadas;
-* canales con más alertas;
-* principales drivers globales.
-
-### 2. Alert Monitor
-
-Muestra una cola priorizada de usuarios alertados con:
-
-* usuario;
-* nivel de riesgo;
-* score;
-* canal;
-* driver principal;
-* acción recomendada;
-* necesidad de revisión humana;
-* supresión comercial.
-
-### 3. User Profile
-
-Vista individual con:
-
-* score de riesgo;
-* explicación SHAP;
-* apuestas por día;
-* depósitos por día;
-* sesiones por semana;
-* pérdida neta acumulada;
-* resumen conductual;
-* intervención recomendada.
-
-### 4. Model Governance
-
-Incluye:
-
-* uso previsto;
-* usos no previstos;
-* variables usadas;
-* variables excluidas;
-* métricas;
-* matriz de confusión;
-* limitaciones;
-* política de revisión humana.
+![Model Governance](assets/model_governance.png)
 
 ---
 
