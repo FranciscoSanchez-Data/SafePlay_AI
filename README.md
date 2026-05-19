@@ -446,7 +446,7 @@ Medidas de mitigación incluidas:
 
 ---
 
-## Pitch de 60 segundos
+## Resumen del proyecto
 
 SafePlay AI es un prototipo de IA responsable aplicado al sector gaming. El objetivo es detectar patrones tempranos de juego de riesgo usando datos de comportamiento, como frecuencia de sesiones, depósitos, pérdidas, actividad nocturna y cambios frente al histórico del usuario.
 
