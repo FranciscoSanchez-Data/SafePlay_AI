@@ -1,0 +1,31 @@
+{
+  "selected_model": "xgboost",
+  "comparison": [
+    {
+      "model": "xgboost",
+      "precision_high": 0.9607843137254902,
+      "recall_high": 0.9514563106796117,
+      "f1_high": 0.9560975609756097,
+      "pr_auc_high": 0.9926723870078844,
+      "macro_f1": 0.977908549061369,
+      "weighted_f1": 0.9948118722282788
+    },
+    {
+      "model": "logistic_regression",
+      "precision_high": 0.7086614173228346,
+      "recall_high": 0.8737864077669902,
+      "f1_high": 0.782608695652174,
+      "pr_auc_high": 0.9069963742276782,
+      "macro_f1": 0.8494765769532061,
+      "weighted_f1": 0.9466134658378474
+    }
+  ],
+  "target_distribution": {
+    "low": 8385,
+    "medium": 1205,
+    "high": 410
+  },
+  "test_size": 2500,
+  "random_seed": 42,
+  "xgboost_available": true
+}

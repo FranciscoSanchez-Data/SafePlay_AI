@@ -1,0 +1,4 @@
+predicted_risk_label,recommended_action_label,users,avg_risk_score_high,human_reviews,commercial_suppressions,audit_records,user_share,alerts_generated_total
+high,Revisión humana y pausa preventiva,409,0.985,409,409,409,0.0409,1620
+low,Sin intervención individual,8380,0.0,0,0,0,0.838,1620
+medium,Mensaje preventivo y monitorización,1211,0.0077,0,1211,1211,0.1211,1620

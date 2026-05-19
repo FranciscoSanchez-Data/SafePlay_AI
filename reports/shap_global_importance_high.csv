@@ -1,0 +1,98 @@
+rank,feature,driver_label,mean_abs_shap_high
+1,deposit_increase_ratio,incremento de depósitos frente al histórico,0.8396589
+2,net_loss_7d,pérdida neta reciente elevada,0.8105216
+3,loss_chasing_events_30d,retornos rápidos después de pérdidas,0.60630745
+4,total_wagered_7d,aumento del importe apostado en los últimos 7 días,0.60438687
+5,frequency_increase_ratio,incremento reciente de frecuencia frente al histórico,0.5327957
+6,loss_increase_ratio,incremento de pérdidas frente al histórico,0.53191036
+7,night_sessions_ratio_30d,actividad nocturna recurrente,0.4164395
+8,avg_session_duration_30d,sesiones más largas en el último mes,0.40889928
+9,max_session_duration_30d,sesión máxima especialmente larga,0.34907472
+10,avg_wagered_per_session_7d,importe medio por sesión elevado recientemente,0.25287637
+11,net_loss_14d,net loss 14d,0.197387
+12,avg_wagered_per_session_hist_before_7d,avg wagered per session hist before 7d,0.1923412
+13,deposit_amount_7d,aumento de depósitos en los últimos 7 días,0.12979257
+14,max_session_duration_7d,max session duration 7d,0.11637732
+15,cancelled_limit_recently,cancelación reciente de límites,0.10423684
+16,night_sessions_ratio_14d,night sessions ratio 14d,0.10373885
+17,avg_wagered_per_session_14d,avg wagered per session 14d,0.09247371
+18,avg_bet_amount_7d,avg bet amount 7d,0.08809033
+19,loss_chasing_events_14d,loss chasing events 14d,0.0761853
+20,avg_session_duration_7d,avg session duration 7d,0.07326506
+21,avg_session_duration_hist_90d_before_7d,avg session duration hist 90d before 7d,0.07023302
+22,night_sessions_ratio_hist_90d_before_7d,night sessions ratio hist 90d before 7d,0.07018776
+23,night_sessions_ratio_7d,night sessions ratio 7d,0.06895194
+24,avg_session_duration_14d,avg session duration 14d,0.06887118
+25,stake_increase_ratio,incremento del ticket medio frente al histórico,0.05699029
+26,max_session_duration_hist_before_7d,max session duration hist before 7d,0.055578273
+27,max_session_duration_hist_90d_before_7d,max session duration hist 90d before 7d,0.047313005
+28,sessions_7d,aumento de sesiones en los últimos 7 días,0.047230482
+29,deposit_amount_hist_90d_before_7d,deposit amount hist 90d before 7d,0.04447922
+30,max_session_duration_14d,max session duration 14d,0.04389705
+31,deposit_count_7d,más depósitos recientes,0.03943321
+32,avg_session_duration_hist_before_7d,avg session duration hist before 7d,0.03922605
+33,avg_bet_amount_30d,ticket medio elevado en los últimos 30 días,0.037330545
+34,deposit_amount_hist_before_7d,deposit amount hist before 7d,0.03204813
+35,net_loss_hist_before_7d,net loss hist before 7d,0.030594394
+36,loss_chasing_events_hist_90d_before_7d,loss chasing events hist 90d before 7d,0.027460989
+37,night_sessions_ratio_hist_before_7d,night sessions ratio hist before 7d,0.02558204
+38,net_loss_hist_90d_before_7d,net loss hist 90d before 7d,0.025000019
+39,loss_chasing_events_7d,loss chasing events 7d,0.024013896
+40,avg_bet_amount_14d,avg bet amount 14d,0.023654157
+41,avg_wagered_per_session_30d,importe medio por sesión elevado en el último mes,0.019158166
+42,deposit_count_30d,deposit count 30d,0.018893618
+43,total_wagered_hist_before_7d,total wagered hist before 7d,0.017541122
+44,loss_chasing_events_hist_before_7d,loss chasing events hist before 7d,0.017269904
+45,avg_wagered_per_session_hist_90d_before_7d,avg wagered per session hist 90d before 7d,0.016631598
+46,deposit_amount_30d,deposit amount 30d,0.016613966
+47,avg_bet_amount_hist_before_7d,avg bet amount hist before 7d,0.013808043
+48,deposit_count_14d,deposit count 14d,0.0137402965
+49,age_band_26-35,age band 26-35,0.012215341
+50,product_switch_count_hist_before_7d,product switch count hist before 7d,0.010526973
+51,active_days_hist_before_7d,active days hist before 7d,0.010398466
+52,net_loss_30d,pérdida neta acumulada elevada en los últimos 30 días,0.010121432
+53,total_wagered_hist_90d_before_7d,total wagered hist 90d before 7d,0.009975316
+54,avg_bet_amount_hist_90d_before_7d,avg bet amount hist 90d before 7d,0.009407759
+55,product_switch_count_7d,product switch count 7d,0.0086004585
+56,limit_configured,configuración de límites de juego,0.008034814
+57,total_wagered_14d,total wagered 14d,0.007860479
+58,product_switch_count_14d,product switch count 14d,0.007803745
+59,deposit_count_hist_before_7d,deposit count hist before 7d,0.007740721
+60,sessions_14d,aumento de sesiones en los últimos 14 días,0.0067290426
+61,total_wagered_30d,importe apostado elevado en los últimos 30 días,0.0066328607
+62,days_since_last_session,actividad muy reciente,0.0063162786
+63,age_band_65+,age band 65+,0.006251511
+64,active_days_hist_90d_before_7d,active days hist 90d before 7d,0.0057886443
+65,sessions_hist_before_7d,sessions hist before 7d,0.00532816
+66,sessions_hist_90d_before_7d,sessions hist 90d before 7d,0.0045922534
+67,sessions_30d,alta frecuencia de sesiones en los últimos 30 días,0.0044167927
+68,product_switch_count_hist_90d_before_7d,product switch count hist 90d before 7d,0.003049946
+69,deposit_amount_14d,deposit amount 14d,0.00304681
+70,province_Málaga,province Málaga,0.0027391948
+71,province_Almería,province Almería,0.0025026167
+72,product_switch_count_30d,cambios frecuentes entre productos,0.0025022822
+73,channel_switch_count_7d,channel switch count 7d,0.0019778223
+74,active_days_14d,active days 14d,0.0016758459
+75,province_Barcelona,province Barcelona,0.0014251879
+76,active_days_7d,active days 7d,0.0013503203
+77,deposit_count_hist_90d_before_7d,deposit count hist 90d before 7d,0.0008947858
+78,active_days_30d,más días activos durante el último mes,0.00081100094
+79,province_Valencia,province Valencia,0.00044951786
+80,channel_preference_online,preferencia por canal online,0.0003531572
+81,age_band_18-25,age band 18-25,0.00027792246
+82,marketing_opt_in,marketing opt in,7.461811e-05
+83,self_excluded,self excluded,0.0
+84,channel_switch_count_14d,channel switch count 14d,0.0
+85,channel_switch_count_30d,cambios recientes entre canales,0.0
+86,channel_switch_count_hist_90d_before_7d,channel switch count hist 90d before 7d,0.0
+87,cooling_off_used,uso de herramientas de pausa o enfriamiento,0.0
+88,channel_switch_count_hist_before_7d,channel switch count hist before 7d,0.0
+89,self_exclusion_attempt,uso o intento de autoexclusión,0.0
+90,province_Alicante,province Alicante,0.0
+91,age_band_56-65,age band 56-65,0.0
+92,age_band_36-45,age band 36-45,0.0
+93,age_band_46-55,age band 46-55,0.0
+94,province_Murcia,province Murcia,0.0
+95,province_Madrid,province Madrid,0.0
+96,province_Granada,province Granada,0.0
+97,channel_preference_retail,preferencia por canal retail,0.0

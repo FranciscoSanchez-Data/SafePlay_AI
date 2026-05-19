@@ -1,0 +1,24 @@
+# Core data stack
+
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Machine learning
+
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+
+# Explainability
+
+shap>=0.45.0
+
+# Visualization and dashboard
+
+matplotlib>=3.8.0
+plotly>=5.20.0
+streamlit>=1.36.0
+
+# Optional notebook support
+
+jupyter>=1.0.0
+ipykernel>=6.29.0

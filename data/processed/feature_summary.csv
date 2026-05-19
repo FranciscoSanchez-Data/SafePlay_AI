@@ -1,0 +1,4 @@
+risk_label,users,sessions_7d_mean,sessions_30d_mean,frequency_increase_ratio_mean,total_wagered_30d_mean,net_loss_30d_mean,deposit_amount_7d_mean,night_sessions_ratio_30d_mean,loss_chasing_events_30d_mean,cancelled_limit_recently_rate,risk_score_rule_mean,user_share
+high,410,10.5732,41.7561,2.2171,20675.4928,4369.5233,4044.9609,0.3865,6.0244,0.1098,7.9512,0.041
+low,8385,0.4619,2.3143,1.1519,105.3728,10.9033,2.1581,0.07,0.0104,0.0,0.0537,0.8385
+medium,1205,3.1419,12.3286,2.3386,2255.4684,404.718,238.2444,0.1998,0.4905,0.0498,2.868,0.1205

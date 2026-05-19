@@ -1,0 +1,4 @@
+synthetic_profile,total_users,users_with_sessions,sessions,sessions_per_total_user,avg_wagered,avg_net_loss,avg_duration,night_ratio,after_loss_return_ratio,avg_deposit_amount
+high,399,399,58135,145.702,390.84,83.115,96.292,0.422,0.113,251.505
+low,8238,8169,101191,12.283,30.011,2.392,20.095,0.08,0.001,2.417
+medium,1363,1363,70167,51.48,92.844,13.012,47.413,0.219,0.021,28.554
